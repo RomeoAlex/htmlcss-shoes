@@ -4,7 +4,7 @@
     padding:0;
     box-sizing: border-box;
 }
-/* common */
+/* COMMON */
 body{
     font-family: Rubik;
 }
@@ -13,7 +13,7 @@ body{
     height: 100vh;
     position: relative;
 }
-.centre-img{
+.container{
     position: absolute;
     top: 50%;
     left: 50%;
