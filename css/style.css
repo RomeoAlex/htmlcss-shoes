@@ -6,7 +6,7 @@
 }
 /* common */
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Rubik;
 }
 .back{
     width: 100vw;
@@ -22,6 +22,22 @@ body{
     font-size: 50px;
 }
 /* MAIN */
+nav{
+    position: absolute;
+    top:10%;
+    right:2%;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 50%;
+    /* line-height: 20px; */
+    margin-right: 30px;
+}
 #box1{
     background-color: red;
     color: #f5f500;
