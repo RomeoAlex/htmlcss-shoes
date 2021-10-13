@@ -30,6 +30,10 @@ nav{
     top:10%;
     right:2%;
 }
+nav li{
+    list-style: none;
+    display: inline-block;
+}
 nav a{
     display: inline-block;
     height: 80px;
